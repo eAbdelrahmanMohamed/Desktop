@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Order</string>
+    <string name="addd">+</string>
+    <string name="remove">" -"</string>
+</resources>

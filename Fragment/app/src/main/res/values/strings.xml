@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activity_txt" translatable="false">text</string>
+    <string name="Name">the name</string>
+    <string name="writepref">write pref</string>
+    <string name="readpref">read pref</string>
+    <string name="the_name" translatable="false"/>
+    <string name="password">the password</string>
+
+
+    <string name="next">next</string>
+    <string name="name" translatable="false"/>
+    <string name="thename">name</string>
+    <string name="thepass">password</string>
+    <string name="nb" translatable="false">next</string>
+    <string name="write_pref">write_pref</string>
+    <string name="read_pref">read_pref</string>
+    <string name="writesql">writesql</string>
+    <string name="readsql">readsql</string>
+</resources>

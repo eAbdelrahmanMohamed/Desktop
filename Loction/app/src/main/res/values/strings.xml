@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loction</string>
+    <string name="fbutton">find</string>
+    <string name="downloadtext"/>
+    <string name="dowload">Download</string>
+    <string name="dowloadimage">dowloadimage</string>
+
+</resources>

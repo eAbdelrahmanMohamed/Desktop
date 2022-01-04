@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              tools:context=".num">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+            android:text="@string/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/add" android:layout_weight="1"/>
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/num" android:layout_weight="1"/>
+    <Button
+            android:text="@string/remove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/remove" android:layout_weight="1"/>
+
+</LinearLayout>

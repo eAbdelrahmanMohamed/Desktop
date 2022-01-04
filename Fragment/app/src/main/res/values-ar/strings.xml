@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="hello_blank_fragment">اهلا بكم</string>
+    <string name="Name">الاسم</string>
+    <string name="writepref">محو الداتا</string>
+    <string name="readpref">استعاده الداتا</string>
+    <string name="password">الرقم السرى</string>
+    <string name="next">التالى</string>
+    <string name="thename">الاسم</string>
+    <string name="thepass">الرقم السرى</string>
+    <string name="write_pref">محو الداتا</string>
+    <string name="read_pref">استعاده الداتا</string>
+</resources>

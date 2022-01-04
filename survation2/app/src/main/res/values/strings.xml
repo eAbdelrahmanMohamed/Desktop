@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">survation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nextbutton">Next</string>
+    <string name="prebutton">previous</string>
+    <string name="yesoption">Yes</string>
+    <string name="nooption">No</string>
+</resources>

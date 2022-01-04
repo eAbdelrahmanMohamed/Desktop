@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              tools:context=".content" android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/header"/>
+    <RadioGroup
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:id="@+id/radiogroup">
+        <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/option1" android:text="@string/yesoption"
+        />
+        <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/optoin2" android:text="@string/nooption"/>
+    </RadioGroup>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <Button
+                android:text="@string/nextbutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:id="@+id/nextbutton" android:layout_weight="1"
+                style="?android:attr/buttonBarButtonStyle"/>
+        <Button
+                android:text="@string/prebutton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" android:layout_weight="1"
+                style="?android:attr/buttonBarButtonStyle" android:id="@+id/prebutton"/>
+    </LinearLayout>
+
+</LinearLayout>

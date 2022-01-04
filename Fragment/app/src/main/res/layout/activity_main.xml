@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" android:baselineAligned="false" android:orientation="vertical">
+        <TextView
+                android:text="@string/thename"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView5"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:ems="10"
+                android:id="@+id/nm"/>
+        <TextView
+                android:text="@string/thepass"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/textView4"/>
+        <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword"
+                android:ems="10"
+                android:id="@+id/ps"/>
+        <Button
+                android:text="@string/nb"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:id="@+id/nt"/>
+    </LinearLayout>
+
+</RelativeLayout>

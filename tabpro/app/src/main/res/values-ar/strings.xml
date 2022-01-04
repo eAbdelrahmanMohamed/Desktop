@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">جعان</string>
+    <string name="tab_text_1">الوجبات</string>
+    <string name="tab_text_2">الحلويات</string>
+    <string name="tab_text_3">المشروبات</string>
+</resources>
